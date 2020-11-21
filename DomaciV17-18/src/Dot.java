@@ -14,6 +14,7 @@ public class Dot {
 	{
 		return y;
 	}
+	//racunanje razdaljine do neke druge tacke
     public double distance(Dot b)
 	{
 		return Math.sqrt(Math.pow((this.y-b.getY()),2)+Math.pow((b.getX()-this.x),2));

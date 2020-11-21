@@ -15,7 +15,7 @@ public class Circle {
 	{
 		return r;
 	}
-	//izracunavanje povrsine
+	//izracunavanje povrsine kruga
 	public double get_area()
 	{
 		return Math.PI*Math.pow(r, 2);

@@ -1,4 +1,4 @@
-
+//trougao
 public class Triangle {
 	private Dot[] vertices=new Dot[3];
 	public Triangle(Dot A,Dot B,Dot C)
